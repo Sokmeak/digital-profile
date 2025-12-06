@@ -30,7 +30,7 @@ const Hero = () => {
                 </a>
               </Button>
               <Button variant="outline" asChild>
-                <a href="mailto:your.email@example.com">
+                <a href="mailto:sokmeak.sarenn@gmail.com">
                   <Mail className="w-4 h-4 mr-2" />
                   Contact Me
                 </a>

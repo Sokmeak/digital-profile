@@ -10,8 +10,7 @@ const About = () => {
         <p className="text-muted-foreground leading-relaxed mb-8">
           I'm a motivated computer science student with a strong foundation in
           programming and a passion for creating meaningful software solutions.
-          I enjoy working on projects that challenge me to learn and grow as a
-          developer.
+          I enjoy working on projects that challenge me to learn and grow as a software engineer.
         </p>
 
         {/* Education Section */}
@@ -31,7 +30,7 @@ const About = () => {
               </div>
               <div>
                 <h4 className="font-medium text-foreground">
-                  Bachelor of Computer Science
+                  Engineering Degree of Computer Science
                 </h4>
                 <p className="text-muted-foreground">
                   Institute of Technology of Cambodia

@@ -23,7 +23,7 @@ const skills = [
   {
     category: "Frameworks",
     icon: Code,
-    items: ["Nuxt.js", "Django", "Spring Boot"],
+    items: ["Nuxt.js", "Nest.js", "Django", "Spring Boot"],
     color: "from-yellow-500 to-lime-500",
   },
   {

@@ -24,7 +24,11 @@ const Hero = () => {
 
             <div className="flex flex-wrap gap-3 justify-center md:justify-start">
               <Button asChild>
-                <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="/Saren Sokmeak-CV.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <FileText className="w-5 h-5 mr-2" />
                   Download CV
                 </a>

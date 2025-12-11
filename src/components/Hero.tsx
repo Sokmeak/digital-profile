@@ -25,7 +25,7 @@ const Hero = () => {
             <div className="flex flex-wrap gap-3 justify-center md:justify-start">
               <Button asChild>
                 <a
-                  href="/public/Saren-Sokmeak-CV.pdf"
+                  href="https://drive.google.com/file/d/1VbC65RHW-6ClzJ3u1Be4dzl6Fb605q0Y/view?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

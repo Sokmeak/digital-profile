@@ -20,12 +20,6 @@ const skills = [
         logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
       },
       {
-        name: "Python",
-        level: "Intermediate" as const,
-        profile: "Data structures, OOP, web development, scripting",
-        logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
-      },
-      {
         name: "Java",
         level: "Intermediate" as const,
         profile: "OOP principles, Spring framework, enterprise applications",
@@ -49,12 +43,6 @@ const skills = [
         level: "Proficient" as const,
         profile: "Flexbox, Grid, animations, responsive design",
         logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-      },
-      {
-        name: "Tailwind CSS",
-        level: "Proficient" as const,
-        profile: "Utility-first CSS, custom components, responsive design",
-        logo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAPFBMVEX////G6fxsyvk/v/g4vfhhyPmz4vuK1PoAtfckufgvu/hTxPn6/f+h2/tGwPjS7v255fxMwviT1/qn3vsZjXhWAAAAbElEQVR4AeWOCQqAMAwEq11r06b3//9qAwiI0QfowHINC2N+yLJabE53uycgUGTtF11CmDqLLVdZ57iJhSt9V+4cCQB5a1RGJgr9FrrW866GbmpoGylISlNC3RxnsbY+hLbX0GSJIKE6zOajHN4ZA8/fNs9XAAAAAElFTkSuQmCC",
       },
       {
         name: "React",
@@ -82,12 +70,6 @@ const skills = [
         logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
       },
       {
-        name: "Express",
-        level: "Intermediate" as const,
-        profile: "Routing, middleware, error handling, API development",
-        logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
-      },
-      {
         name: "MongoDB",
         level: "Intermediate" as const,
         profile: "NoSQL database, aggregation pipelines, indexing",
@@ -105,13 +87,6 @@ const skills = [
         profile: "Relational database, joins, indexing, stored procedures",
         logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
       },
-
-      {
-        name: "DynamoDB",
-        level: "Intermediate" as const,
-        profile: "NoSQL database, key-value store, scalability",
-        logo: "https://miro.medium.com/1*MeLwtqK7-Jm6fFsff0JF-g.png",
-      },
     ],
     color: "from-green-500 to-emerald-500",
   },
@@ -121,7 +96,7 @@ const skills = [
     items: [
       {
         name: "Nuxt.js",
-        level: "Intermediate" as const,
+        level: "Proficient" as const,
         profile: "Vue.js framework, SSR, static generation, routing",
         logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg",
       },
@@ -133,7 +108,7 @@ const skills = [
       },
       {
         name: "Nest.js",
-        level: "Intermediate" as const,
+        level: "Proficient" as const,
         profile: "Node.js framework, decorators, dependency injection",
         logo: "https://nestjs.com/logo-small-gradient.0ed287ce.svg",
       },

@@ -25,7 +25,7 @@ const Hero = () => {
             <div className="flex flex-wrap gap-3 justify-center md:justify-start">
               <Button asChild>
                 <a
-                  href="https://drive.google.com/file/d/1c6G19NIifn4vI31TN49ftOocZEOYmOAO/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1c6G19NIifn4vI31TN49ftOocZEOYmOAO/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -34,7 +34,7 @@ const Hero = () => {
                 </a>
               </Button>
               <Button variant="outline" asChild>
-                <a href="mailto:sokmeak.sarenn@gmail.com">
+                <a href="#contact">
                   <Mail className="w-4 h-4 mr-2" />
                   Contact Me
                 </a>

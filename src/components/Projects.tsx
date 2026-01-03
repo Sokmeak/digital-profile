@@ -18,7 +18,7 @@ const projects = [
     image: projectTextDisplayer,
     tech: ["HTML", "CSS", "JavaScript"],
     status: Status.COMPLETED,
-    demo: "https://drive.google.com/file/d/1c6G19NIifn4vI31TN49ftOocZEOYmOAO/view?usp=sharing",
+    demo: "https://drive.google.com/file/d/1KwfaCyNPB9hz8V3jRl49to9GbOhfXCCQ/view?usp=sharing",
   },
   {
     title: "E-Commerce Frontend",
@@ -27,7 +27,7 @@ const projects = [
     image: projectEcommerce,
     tech: ["Vue.js", "Pinia"],
     status: Status.COMPLETED,
-    demo: "",
+    demo: "https://drive.google.com/file/d/1G-V5mT1Pp9SGr1y1WAn33qHH2zymlyM6/view?usp=sharing",
   },
   {
     title: "Job Seeker Platform",
@@ -36,7 +36,7 @@ const projects = [
     image: projectJobseeker,
     tech: ["NestJS", "PostgreSQL", "Vue.js", "Docker"],
     status: Status.COMPLETED,
-    demo: "",
+    demo: "https://drive.google.com/file/d/1Jij5nVPZOuoZ3Xa55yViBNKF8WBztMuO/view?usp=sharing",
   },
   {
     title: "Learning Management System",
@@ -45,7 +45,7 @@ const projects = [
     image: projectLms,
     tech: ["NestJS", "Redis", "PostgreSQL", "RabbitMQ", "KrakenD"],
     status: Status.COMPLETED,
-    demo: "",
+    demo: "https://drive.google.com/file/d/1NZQBXxwH66qVaITBwoPKkhcep0v_9jir/view?usp=sharing",
   },
   {
     title: "Student Showcase",
